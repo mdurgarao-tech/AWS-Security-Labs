@@ -21,4 +21,4 @@ The repo currently contains this README and a license. Notes and lab write-ups w
 ---
 
 **Author:** Miriyala Durga Rao
-[LinkedIn](https://www.linkedin.com/in/miriyala-durgarao) · [Portfolio](https://edgeguard-chronicle.lovable.app)
+[LinkedIn](https://www.linkedin.com/in/miriyala-durgarao) · [Portfolio](https://mdurgarao-tech.github.io)
